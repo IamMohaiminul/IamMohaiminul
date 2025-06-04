@@ -28,8 +28,12 @@
 - **Productivity** - `Jira`
 
 ## Github Overview
-<p align="justify">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=IamMohaiminul&show_icons=true&theme=graywhite" alt="Github Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMohaiminul&layout=compact&theme=graywhite" alt="Compact Language" />
-    <img align="right" src="https://komarev.com/ghpvc/?username=IamMohaiminul&style=for-the-badge" alt="Profile Views" />
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=IamMohaiminul&style=for-the-badge" alt="Profile Views" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMohaiminul&layout=compact&theme=graywhite" alt="Compact Language" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=IamMohaiminul&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
