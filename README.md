@@ -29,5 +29,8 @@
 
 ## Github Overview
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IamMohaiminul&style=for-the-badge" alt="Profile Views" />
+</p>
+<p align="center">
     <img align="center" alt="IamMohaiminul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamMohaiminul&show_icons=true" />
 </p>
